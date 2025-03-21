@@ -1,0 +1,14 @@
+flask
+requests
+feedparser
+concurrent.futures
+beautifulsoup4
+RapidFuzz
+transformers
+nltk
+scikit-learn
+gTTS
+torch
+protobuf
+sentencepiece
+streamlit
